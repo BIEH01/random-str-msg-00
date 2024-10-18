@@ -1,0 +1,27 @@
+{
+	"name": "random-str-msg-00",
+	"version": "1.0.0",
+	"description": "Random String Messages",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/BIEH01/random-str-msg-00.git"
+	},
+	"keywords": [],
+	"author": "Bryan Escamilla <isaacescamilla.h1998@gmail.com>",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/BIEH01/random-str-msg-00/issues"
+	},
+	"homepage": "https://github.com/BIEH01/random-str-msg-00#readme",
+	"bin": {
+		"random-str-msg-00": "./bin/global.js"
+	},
+	"preferGlobal": true,
+	"dependencies": {
+		"g": "^2.0.1"
+	}
+}
